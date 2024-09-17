@@ -12,8 +12,9 @@
 # for x in range(6):
 #     print("hallo")
 
-temp = int(input("Wat is de temperatuur?"))
+# temp = int(input("Wat is de temperatuur?"))
 
+# MAAK HIER DE FUNCTIE mijn_functie VAK
 if temp < 10:
     print("Brr!")
 # elif temp >= 10 and temp < 16:
@@ -28,8 +29,26 @@ else:
     print("Mag het raam open?")
 print("Klaar!")
 
-if temp in range(16,21):
-    print("Nogmaals: dat is ok.")
+# if temp in range(16,21):
+#     print("Nogmaals: dat is ok.")
+
+
+
+temp = int(input("Wat is de temperatuur?"))
+commentaar = mijn_functie(temp)
+print(commentaar.upper())
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 leeftijd = 37
