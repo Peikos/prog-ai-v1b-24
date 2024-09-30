@@ -15,6 +15,7 @@ meetwaardes = [[1, 5, 8, 7, 2, 3, 6],
 # Loop (met een dubbele for loop) nogmaals door de lijst met pixels heen. Stop zodra je 3x dezelfde kleur ben tegengekomen. Print welke kleur dat is.
 
 
+
 # Maak vak bovenstaande code een functie, waarbij je het getal 3 door een parameter vervangt.
 
 
